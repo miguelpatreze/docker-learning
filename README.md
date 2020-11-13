@@ -2,8 +2,9 @@
 Repository to save all educational material I find on docker
 
 # Courses
-https://www.udemy.com/course/docker-mastery/
+Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 - Great course to get into the Container's World
+https://www.udemy.com/course/docker-mastery/
 
 # Usefull Links
 https://docs.docker.com/get-started/
